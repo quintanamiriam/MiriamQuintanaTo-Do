@@ -56,20 +56,7 @@ in and hit enter?):
 3.body
 
 List types and describe which ones are primitive and which are reference types:
-Primitive Types are basic types of data available in Java language.
--boolean
--byte
--char
--short
--int
--long
--float
--double
-Reference Types are any class types that are defined by a programmer to allow other programmers to create instances.
--All other are reference types, they reference objects
--string
--scanner
--random
+Primitive types: String, Boolean, Null, Undefined, Number Reference type: Object
 
 Describe the difference between primitive and reference types:
 Primitive variables store the actual values, and reference variables store the addresses of the objects they refer to.
